@@ -1,1 +1,24 @@
 
+#include <stdio.h>
+#include <stdlib.h>
+struct FUNCIONARIOS{
+
+    };
+struct FICHA_DE_CADASTRO{
+    int ID, ANO;
+    char NOME[50], CARGO[50];
+    float VALOR_HORA;
+    struct MESES mes;
+};
+void criarFuncionarios(){
+struct FICHA_DE_CADASTRO fichaCadastro=
+
+
+}
+int main()
+{
+    printf("")
+    printf("Hello world!\n");
+    return 0;
+}
+
